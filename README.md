@@ -20,7 +20,7 @@
 </p>
 <br />
 <h3><i>I am a Data Science enthusiast and professional</i></h3>
-<h4>I'm a skilled Python programmer and Data Science professional with experience and skills in Statistical Data Analytics, Machine Learning Alogorithms, Tableau, SSQL, Data Mining, DBMS, Pipelines, ETL, Business Intelligence and Data Analysis and beginner at R </h4>
+<h4>I'm a skilled Python programmer and Data Science professional with experience and skills in Statistical Data Analytics, Machine Learning Alogorithms, Tableau, SQL, Data Mining, DBMS, Pipelines, ETL, Business Intelligence and Data Analysis and beginner at R </h4>
 
 <img alt="Shubhankar Jadhav Github Gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI4NHk0aGJxOGQ1ZHA2eGV2aDA0ejVyYjc0bGxvMmp3d3d2MXZqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif" ></img>
 
