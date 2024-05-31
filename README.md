@@ -22,7 +22,6 @@
   </a> 
 </p>
 <br />
-<br>
 
 <h3><i>I am a Data Science enthusiast and professional</i></h3>
 <h4>Skills: Python, Machine Learning and Algorithms, Tableau, Data Mining, DBMS, ETL, Pipelines, Data & Statistical Analytics, Data Anlysis, R, Business Intelligence</h4>
