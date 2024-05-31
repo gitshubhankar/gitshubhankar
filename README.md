@@ -18,7 +18,7 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
-<img alt="Shubhankar Jadhav Github Gif" src="[https://giphy.com/gifs/salesforce-confetti-success-customer](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI4NHk0aGJxOGQ1ZHA2eGV2aDA0ejVyYjc0bGxvMmp3d3d2MXZqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif)"> </img>
+<img alt="Shubhankar Jadhav Github Gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI4NHk0aGJxOGQ1ZHA2eGV2aDA0ejVyYjc0bGxvMmp3d3d2MXZqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif" ></img>
 
 <i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
 
