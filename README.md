@@ -1,6 +1,7 @@
-<h1 align="center">Hello! I am Shubhankar Jadhav &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h1 align="center">Hello! I am Shubhankar Jadhav &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.oligodon.com/"><img src="https://i.postimg.cc/sDx13tWS/rsz-ologodonwebsitelogo.png" alt="Oligodon logo"/></a></h1>
-<p align="center">
+<div align="center">
+ <p align="center">
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
