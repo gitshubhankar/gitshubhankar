@@ -1,4 +1,4 @@
-<h1 align="center">Hi  ! I am Shubhankar Jadhav&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h1 align="center">Hi  ! I am Shubhankar Jadhav&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.oligodon.com/"><img src="https://i.postimg.cc/sDx13tWS/rsz-ologodonwebsitelogo.png" alt="Oligodon logo"/></a></h1>
 <div align="center">
  <p align="center">
