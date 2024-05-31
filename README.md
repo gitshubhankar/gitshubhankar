@@ -5,8 +5,8 @@
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href=https://discord.gg/rfhZTXqR"><img src="https://img.shields.io/discord/https%3A%2F%2Fdiscord.com%2Fchannels%2F1245966869597261845
-" alt="Join Community Badge"/></a>
+<a href=https://discord.gg/rfhZTXqR"><img alt="Discord" src="https://img.shields.io/discord/https%3A%2F%2Fdiscord.com%2Fchannels%2F1245966869597261845">
+</a>
 <a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 <br>
 
