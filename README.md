@@ -27,7 +27,7 @@
 <i>Would you like to connect?  Email: mailshubhankarjadhav@gmail.com </i>
 
 ## Skilled
-[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,tableaumongodb,kafka,elasticsearch,graphql,grafana,matlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,tableau,mongodb,kafka,elasticsearch,graphql,grafana,matlab&theme=light)](https://skillicons.dev)
 
 <br/>
 
