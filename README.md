@@ -9,7 +9,7 @@
 <a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 <br>
 
-<i>A curated list of awesome Github Profile READMEs</i>
+<i>I am a Data Science enthusiast and professional</i>
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -20,6 +20,6 @@
 
 <img alt="Shubhankar Jadhav Github Gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI4NHk0aGJxOGQ1ZHA2eGV2aDA0ejVyYjc0bGxvMmp3d3d2MXZqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif" ></img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<i>Would you like to connect?  Email: mailshubhankarjadhav@gmail.com </i>
 
 </div>
