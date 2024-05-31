@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I am Shubhankar.
+<h1 align="center">Hello! I am Shubhankar. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.oligodon.com/"><img src="https://i.postimg.cc/sDx13tWS/rsz-ologodonwebsitelogo.png" alt="Oligodon logo"/></a></h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
