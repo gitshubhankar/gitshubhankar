@@ -5,32 +5,30 @@
  <a href="https://oligodon.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="oligodon" />
  </a>
-<a href="https://linkedin.com/in/shubhankar-shreedatta-jadhav" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="https://linkedin.com/in/shubhankar-shreedatta-jadhav" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubhankar jadhav"/>
  </a>
-
  <a href="https://twitter.com/shubhank4r" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/shubhank4r" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="shubhank4r" />
  </a> 
  <a href="https://facebook.com/shubhank4r" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="shubhank4r"  />
   </a> 
 </p>
 <br />
 <h3><i>I am a Data Science enthusiast and professional</i></h3>
-<h4>Skills: Python, Machine Learning and Algorithms, Tableau, Data Mining, DBMS, ETL, Pipelines, Data & Statistical Analytics, Data Anlysis, R, Business Intelligence</h4>
-
-
+<h4>I'm a skilled Python programmer and Data Science professional with experience and skills in Statistical Data Analytics, Machine Learning Alogorithms, Tableau, SSQL, Data Mining, DBMS, Pipelines, ETL, Business Intelligence and Data Analysis and beginner at R </h4>
 
 <img alt="Shubhankar Jadhav Github Gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI4NHk0aGJxOGQ1ZHA2eGV2aDA0ejVyYjc0bGxvMmp3d3d2MXZqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif" ></img>
 
 <i>Would you like to connect?  Email: mailshubhankarjadhav@gmail.com </i>
-## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+## Familiar with
+
+![Python](https://img.shields.io/pypi/pyversions/:packageName)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
