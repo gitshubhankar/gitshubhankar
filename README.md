@@ -1,5 +1,5 @@
 <h1 align="center">Hi  ! I am Shubhankar Jadhav &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a ><img src="https://i.postimg.cc/xCy7yQq5/sciobyteblackbglogo.png" alt="Sciobyte"/></a></h1>
+<a ><img src="https://i.postimg.cc/SQ1V0j08/sciobyteblackbglogo.png" alt="Sciobyte"/></a></h1>
 <div align="center">
  <p align="center">
  <a href="https://linkedin.com/in/shubhankar-shreedatta-jadhav" target="_blank">
